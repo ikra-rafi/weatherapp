@@ -1,3 +1,16 @@
+ ![Screenshot](assets/weather-app.png)
+
+ # Description
+ This app is a weather dashboard that uses api to populate the current weather of a given city. The API that this app uses is OpenWeather API which retrieves the data for the different cities. User enters city name in the search bar and the app should retrieve the data for today and the remaining four days for a total of five days.
+ User can also user the search history functionality. Click on the city name thus brings up the current and future conditions.
+
+ # Technologies 
+ Bootstrap, Font Awesome, Javascript, jQuery, OpenWeatherMap, Moment.js
+ # Links
+ GitHub: https://github.com/ikra-rafi/weatherapp
+ Deployed Link: https://ikra-rafi.github.io/weatherapp/
+
+
 # 06 Server-Side APIs: Weather Dashboard
 
 Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
